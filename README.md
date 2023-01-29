@@ -12,6 +12,7 @@ first of all download and install PycDc ( PYC Decrypte )
 
 ```bash
 git clone https://github.com/zrax/pycdc
+sudo apt install cmake
 cd pycdc&& cmake .
 make
 ```
