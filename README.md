@@ -32,3 +32,4 @@ decompile pyc with this command
 ```
 
 #Support Us!
+Tangs
